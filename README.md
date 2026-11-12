@@ -2,9 +2,9 @@
 
 NASA Space Apps Challenge 2026 — **Lunar Landing Site Navigator** 출품 프로젝트 (Team PJ).
 
-착륙지와 날짜를 누구나 빠르게 비교하고, 그 판단이 착륙 위치 오차와 지형도 오차를 넣어도 유지되는지 보여주는 웹 애플리케이션.
+착륙지와 날짜를 누구나 빠르게 비교하고, 목표점에서 벗어나 내려도 임무가 성립하는 겨냥점을 지도로 보여주는 정적 웹 애플리케이션.
 
-- 제품 요구사항: [docs/PRD.md](docs/PRD.md) (v2.0)
+- 제품 요구사항: [docs/PRD.md](docs/PRD.md) (v3.0)
 
 ## 상태
 
